@@ -1,0 +1,14 @@
+// app/style/main.scss
+
+.ms-depth-4 {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5px;
+}
+
+.ms-depth-8 {
+    height: 500px;
+    overflow: overlay;
+    width: 50%;
+    display: inline-block;
+}
